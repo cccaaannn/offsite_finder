@@ -159,7 +159,7 @@ def draw_circle(event,x,y,flags,param):
 
 
 
-image_path = "c.jpg"
+image_path = "samples/c.jpg"
 
 image = cv2.imread(image_path)
 
